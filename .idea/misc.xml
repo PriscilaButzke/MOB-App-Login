@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/Icook/app/src/main/res/drawable/botao_vermelho.xml" value="0.1075" />
         <entry key="..\:/Users/s.lucas/AndroidStudioProjects/Icook/app/src/main/res/layout/activity_cadastro.xml" value="0.2" />
+        <entry key="..\:/Users/s.lucas/AndroidStudioProjects/Icook/app/src/main/res/layout/activity_form_cadastro.xml" value="0.25" />
         <entry key="..\:/Users/s.lucas/AndroidStudioProjects/Icook/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/s.lucas/AndroidStudioProjects/Icook/app/src/main/res/layout/activity_splash.xml" value="0.2" />
         <entry key="..\:/Users/s.lucas/AndroidStudioProjects/Icook/app/src/main/res/layout/cadastro_ctivity.xml" value="0.25" />
